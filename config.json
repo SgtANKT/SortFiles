@@ -1,0 +1,14 @@
+{
+
+  "Folder_Path":"C:\\Users\\ankit\\Desktop\\Test1",
+
+  "Servers":
+  {
+    "82": {"running": true,"drive_name": "C:\\"},
+    "83":  {"running": true,"drive_name": "D:\\"}
+  },
+  "Folders": {
+    "A": "Users\\ankit\\Desktop\\Test1",
+    "B": "Users\\ankit\\Desktop\\Test2"
+  }
+}
